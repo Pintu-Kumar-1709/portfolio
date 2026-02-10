@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo & Title -->
-<img src="public/lolo.jpg" alt="KumarrR Portfolio Logo" width="140" height="140" style="border-radius: 20px;" />
+<img src="public/lolo.jpg" alt="KumarrR Portfolio Logo" width="140" height="140" style="border-radius: 20px" />
 
 # 🚀 Pintu KumarrR Portfolio
 
@@ -415,9 +415,7 @@ copies of the Software...
 
 **🌟 If you found this project helpful, please give it a star!**
 
-<a href="https://github.com/giasinguyen/GiaSi-Portfolio/stargazers">
-  <img src="https://img.shields.io/github/stars/giasinguyen/GiaSi-Portfolio?style=social" alt="Stars" />
-</a>
+
 
 </div>
 
