@@ -1,0 +1,19 @@
+{
+  "name": "Pintu KumarrR -  Portfolio",
+  "short_name": "KumarrR Portfolio",
+  "description": "Full Stack Developer Portfolio - Next.Js & React Expert",
+  "theme_color": "#1e293b",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/lolo.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

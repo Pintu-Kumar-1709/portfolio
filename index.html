@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="icon" type="image/*" href="/lolo.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, shrink-to-fit=no" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="format-detection" content="telephone=no" />
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#1e293b" />
+
+    <!-- Primary Meta Tags -->
+    <title>KumarrR Portfolio - Full Stack Developer | Next.js & React.js</title>
+    <meta name="title" content="KumarrR Portfolio - Full Stack Developer | Next.js & React.js" />
+    <meta name="description" content="Professional Full Stack Developer specializing in Next.js & React.js, and modern web technologies. Explore my projects, skills, and experience in building scalable web applications." />
+    <meta name="keywords" content="portfolio, full stack developer,next.js developer,redux toolkit, react developer,  javascript, typescript, web development, software engineer, frontend, backend, full stack" />
+    <meta name="author" content="Pintu Kumar" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nguyentrangiasi.id.vn/" />
+    <meta property="og:title" content="KumarrR Portfolio - Full Stack Developer" />
+    <meta property="og:description" content="Professional Full Stack Developer specializing in Next.js & React.js, and modern web technologies." />
+    <meta property="og:image" content="https://www.linkedin.com/in/pintu-kumar-12x/logo.png" />
+    <meta property="og:site_name" content="GiaSi Portfolio" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://x.com/babu_sajan_12" />
+    <meta property="twitter:title" content="KumarrR Portfolio - Full Stack Developer" />
+    <meta property="twitter:description" content="Professional Full Stack Developer specializing in Next.js & React.js, and modern web technologies." />
+    <meta property="twitter:image" content="https://x.com/babu_sajan_12/logo.png" />
+
+    <!-- Additional SEO -->
+    <meta name="theme-color" content="#0ea5e9" />
+    <meta name="msapplication-TileColor" content="#0ea5e9" />
+    <link rel="canonical" href="/https://x.com/babu_sajan_12" />
+
+    <!-- Preconnect to external domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+    <!-- Critical CSS inlining for faster mobile load -->
+    <style>
+      /* Critical above-the-fold CSS */
+      #root { min-height: 100vh; background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%); }
+      .preloader { position: fixed; inset: 0; background: #0f172a; display: flex; align-items: center; justify-content: center; z-index: 9999; }
+      .spinner { width: 2rem; height: 2rem; border: 2px solid #374151; border-top: 2px solid #60a5fa; border-radius: 50%; animation: spin 1s linear infinite; }
+      @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <!-- Service Worker Registration -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .catch(() => {
+              // Fail silently if SW registration fails
+            });
+        });
+      }
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

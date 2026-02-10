@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "title": "RadiAntiX Job Search",
+    "description": "A high-performance full-stack job portal built with React 19 and Node.js, featuring secure JWT authentication, Redux state management, and Cloudinary media integration.",
+    "image": "/job.png",
+    "tags": [
+      "React 19",
+      "Vite",
+      "Redux Toolkit",
+      "Shadcn UI",
+      "Framer Motion",
+      "Node.js",
+      "Express.js",
+      "JWT",
+      "TailwindCSS",
+      "Cloudinary",
+      "MongoDB"
+    ],
+    "category": "fullstack",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709",
+    "demoUrl": "https://job-portal-project-q2jt.onrender.com/",
+    "period": "September 2025 - December 2025",
+    "role": "Designed and implemented by myself",
+    "teamSize": 1,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Food Website Project",
+    "description": "A visually stunning and high-performance food platform built with JavaScript and Framer Motion, featuring smooth interactive sliders and a fully responsive modern UI.",
+    "image": "/food.png",
+    "tags": [
+      "HTML",
+      "CSS",
+      "javaScript",
+      "Scroll-Trigger",
+      "Framer Motion",
+      "Swiper.JS"
+    ],
+    "category": "frontend",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709",
+    "demoUrl": "https://food-seven-roan.vercel.app/",
+    "period": "January 2024 - february 2024",
+    "role": "Front-end Developer",
+    "teamSize": 1,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "VibeStream - Music Platform",
+    "description": "An immersive music streaming application built with Next.js and Aceternity UI, featuring fluid Framer Motion animations and high-performance server-side rendering.",
+    "image": "/music.png",
+    "tags": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Aceternity UI",
+      "Framer-motion",
+      "Swiper.JS"
+    ],
+    "category": "fullstack",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709",
+    "demoUrl": "https://next-js-music-eosin.vercel.app/",
+    "period": "December 2024 - January 2025",
+    "role": "Fullstack Developer",
+    "teamSize": 1,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Quora Post Project",
+    "description": "Architected a robust server-side application using Node.js and Express.js framework.Developed dynamic web pages using EJS template engine to render data efficiently from the server.",
+    "image": "/quora.png",
+    "tags": ["Node.js", "Express.js", "EJS", "method-override","uuid","CSS"],
+    "category": "backend",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709/Quora_Post",
+    "demoUrl": "https://github.com/Pintu-Kumar-1709/Quora_Post",
+    "period": "May 2024 - May 2024",
+    "role": "Backend Developer",
+    "teamSize": 1,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Business Template Website",
+    "description": "Desktop system for restaurant operations with table reservations, customer loyalty, billing, employee management, and revenue analytics.",
+    "image": "/business.png",
+    "tags": ["HTML", "CSS", "javaScript", "Bootstrap"],
+    "category": "frontend",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709",
+    "demoUrl": "https://pintu-kumar-1709.github.io/business/",
+    "period": "October 2024 - December 2024",
+    "role": "Front-end Developer",
+    "teamSize": 1,
+    "featured": false
+  }
+  
+]
