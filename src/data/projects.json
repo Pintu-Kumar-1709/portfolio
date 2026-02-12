@@ -67,12 +67,36 @@
     "teamSize": 1,
     "featured": true
   },
+
   {
     "id": 4,
+    "title": "Personal Developer Portfolio Website",
+    "description": "Designed and deployed a performance-optimized developer portfolio using React.js and Vite, implementing responsive UI with Tailwind CSS, smooth animations via Framer Motion, SEO optimization, and secure contact workflow integration. Successfully deployed on Vercel with automated CI/CD integration.",
+    "image": "/port.png",
+    "tags": [
+      "React.js",
+      "Vite",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Web3Forms",
+      "Vercel",
+      "SEO"
+    ],
+    "category": "frontend",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709/portfolio",
+    "demoUrl": "https://kumar-portfolio-seven.vercel.app/",
+    "period": "December 2024 - January 2025",
+    "role": "Frontend Developer",
+    "teamSize": 1,
+    "featured": true
+  },
+
+  {
+    "id": 5,
     "title": "Quora Post Project",
     "description": "Architected a robust server-side application using Node.js and Express.js framework.Developed dynamic web pages using EJS template engine to render data efficiently from the server.",
     "image": "/quora.png",
-    "tags": ["Node.js", "Express.js", "EJS", "method-override","uuid","CSS"],
+    "tags": ["Node.js", "Express.js", "EJS", "method-override", "uuid", "CSS"],
     "category": "backend",
     "githubUrl": "https://github.com/Pintu-Kumar-1709/Quora_Post",
     "demoUrl": "https://github.com/Pintu-Kumar-1709/Quora_Post",
@@ -82,7 +106,7 @@
     "featured": false
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Business Template Website",
     "description": "Desktop system for restaurant operations with table reservations, customer loyalty, billing, employee management, and revenue analytics.",
     "image": "/business.png",
@@ -95,5 +119,4 @@
     "teamSize": 1,
     "featured": false
   }
-  
 ]
