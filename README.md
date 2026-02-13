@@ -337,7 +337,7 @@ http://localhost:5173
 
 This portfolio is configured for seamless deployment on **Vercel**:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/giasinguyen/GiaSi-Portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/)
 
 ### Manual Deployment
 
