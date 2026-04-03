@@ -1,6 +1,39 @@
 [
   {
     "id": 1,
+    "title": "ZestCo: A real-time full-Stack Grocery Delivery Infrastructure",
+    "description": "ZestCo Engine: A robust, high-performance grocery delivery infrastructure built with Next.js 15. Engineered for low-latency real-time tracking via Socket.io, integrated with Secure RBAC and Stripe Webhooks for a production-ready, seamless user ecosystem.",
+    "image": "/zestco.png",
+    "tags": [
+      "Next.js",
+      "Redux Toolkit",
+      "TypeScript",
+      "Shadcn UI",
+      "Framer Motion",
+      "Socket.io",
+      "Node.js",
+      "Express.js",
+      "JWT",
+      "TailwindCSS",
+      "Cloudinary",
+      "MongoDB",
+      "payment-gateway",
+      "Nodemailer",
+      "Axios",
+      "Leaflet",
+      "Next-auth",
+      "Recharts"
+    ],
+    "category": "fullstack",
+    "githubUrl": "https://github.com/Pintu-Kumar-1709",
+    "demoUrl": "https://zestco.vercel.app//",
+    "period": "January 2026 - April 2026",
+    "role": "Fullstack Developer",
+    "teamSize": 1,
+    "featured": true
+  },
+  {
+    "id": 2,
     "title": "RadiAntiX Job Search",
     "description": "A high-performance full-stack job portal built with React 19 and Node.js, featuring secure JWT authentication, Redux state management, and Cloudinary media integration.",
     "image": "/job.png",
@@ -21,12 +54,12 @@
     "githubUrl": "https://github.com/Pintu-Kumar-1709",
     "demoUrl": "https://job-portal-project-q2jt.onrender.com/",
     "period": "September 2025 - December 2025",
-    "role": "Designed and implemented by myself",
+    "role": "Fullstack Developer",
     "teamSize": 1,
     "featured": true
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Food Website Project",
     "description": "A visually stunning and high-performance food platform built with JavaScript and Framer Motion, featuring smooth interactive sliders and a fully responsive modern UI.",
     "image": "/food.png",
@@ -47,7 +80,7 @@
     "featured": true
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "VibeStream - Music Platform",
     "description": "An immersive music streaming application built with Next.js and Aceternity UI, featuring fluid Framer Motion animations and high-performance server-side rendering.",
     "image": "/music.png",
@@ -69,7 +102,7 @@
   },
 
   {
-    "id": 4,
+    "id": 5,
     "title": "Personal Developer Portfolio Website",
     "description": "Designed and deployed a performance-optimized developer portfolio using React.js and Vite, implementing responsive UI with Tailwind CSS, smooth animations via Framer Motion, SEO optimization, and secure contact workflow integration. Successfully deployed on Vercel with automated CI/CD integration.",
     "image": "/port.png",
@@ -92,7 +125,7 @@
   },
 
   {
-    "id": 5,
+    "id": 6,
     "title": "Quora Post Project",
     "description": "Architected a robust server-side application using Node.js and Express.js framework.Developed dynamic web pages using EJS template engine to render data efficiently from the server.",
     "image": "/quora.png",
@@ -106,7 +139,7 @@
     "featured": false
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Business Template Website",
     "description": "Desktop system for restaurant operations with table reservations, customer loyalty, billing, employee management, and revenue analytics.",
     "image": "/business.png",

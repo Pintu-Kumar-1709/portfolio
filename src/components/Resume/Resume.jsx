@@ -94,6 +94,20 @@ function Resume() {
           "Utilized Cookie-parser for secure session handling and CORS for cross-origin resource sharing management.",
         ],
       },
+      {
+        title: "Full-Stack Next.js Developer ( ZestCo Grocery Ecosystem )",
+        company: "Personal Project",
+        period: "January 2026 - April 2026",
+        location: "Bhopal, Madhya Pradesh",
+        achievements: [
+          "Engineered a high-performance grocery delivery platform using Next.js 15 and Turbopack for optimized server-side rendering (SSR).",
+          "Architected a real-time tracking system with Socket.io and WebSockets to provide live delivery updates and instant chat support.",
+          "Implemented Secure Role-Based Access Control (RBAC) using Auth.js (NextAuth v5) for Admin, User, and Delivery Boy dashboards.",
+          "Integrated Stripe Payment Gateway with automated Webhook handling to ensure secure and robust transaction management.",
+          "Designed a responsive, mobile-first UI using Tailwind CSS, Shadcn UI, and Framer Motion for smooth, interactive user experiences.",
+          "Managed complex database relationships with MongoDB Atlas and Mongoose, utilizing ObjectIds for optimized data retrieval and integrity.",
+        ],
+      },
     ],
     [],
   );

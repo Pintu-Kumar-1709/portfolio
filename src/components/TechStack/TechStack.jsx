@@ -275,25 +275,29 @@ function TechStack() {
           "Tailwind CSS",
           "Aceternity UI",
           "Framer-motion",
+          "Swiper.js",
         ],
         highlight:
           "An immersive music streaming application built with Next.js and Aceternity UI, featuring fluid Framer Motion animations and high-performance server-side rendering.",
       },
       {
         id: 2,
-        name: "Food Website",
+        name: "ZestCo: A real-time full-Stack Grocery Delivery Infrastructure",
         description:
-          "Implemented smooth & animations for an interactive user experience",
+          "ZestCo | Real-time tracking & RBAC ecosystem built with Next.js 15 and WebSockets.",
         techUsed: [
-          "Html",
-          "CSS",
-          "javaScript",
+          "Next.js",
+          "Redux Toolkit",
+          "TypeScript",
           "Scroll-Trigger",
-          " Framer Motion",
-          "Swiper.JS",
+          "Framer Motion",
+          "Socket.io",
+          "Cloudinary",
+          "MongoDB-Atlas",
+          "Tailwind.CSS",
         ],
         highlight:
-          "A visually stunning and high-performance food platform built with JavaScript and Framer Motion, featuring smooth interactive sliders and a fully responsive modern UI.",
+          "A production-ready grocery delivery platform featuring real-time tracking, multi-role dashboards, and secure payments, built with Next.js 15 and Socket.io.",
       },
       {
         id: 3,
@@ -463,7 +467,7 @@ function TechStack() {
                 viewport={{ once: true }}
               >
                 Real projects showcasing how I apply these technologies to solve
-                problems
+                problems.
               </motion.p>
             </div>
 
